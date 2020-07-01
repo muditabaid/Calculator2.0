@@ -1,4 +1,4 @@
-import calculator;
+import calculator.*;
 import java.util.*;
 public class Main
 {
